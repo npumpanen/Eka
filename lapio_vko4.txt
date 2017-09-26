@@ -2,4 +2,8 @@ Ensimmäinen rivi.
 Toinen rivi.
 Kolmas rivi.
 Lempiviikkoni oli neljäs viikko.
+<<<<<<< Updated upstream
 Moi.
+=======
+Tänään on tiistai.
+>>>>>>> Stashed changes
