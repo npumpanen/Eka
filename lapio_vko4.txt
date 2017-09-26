@@ -1,9 +1,10 @@
 Ensimmäinen rivi.
 Toinen rivi.
-Kolmas rivi.
+terveisiä mun koneelta
 Lempiviikkoni oli neljäs viikko.
 <<<<<<< Updated upstream
 Moi.
 =======
 Tänään on tiistai.
 >>>>>>> Stashed changes
+Huomenna on juhlat.
