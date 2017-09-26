@@ -1,6 +1,6 @@
 Ensimmäinen rivi.
 Toinen rivi.
-Kolmas rivi.
+Terveisiä GitHubista.
 Lempiviikkoni oli neljäs viikko.
 <<<<<<< Updated upstream
 Moi.
